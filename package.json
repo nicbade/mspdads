@@ -1,0 +1,23 @@
+{
+  "name": "mspdads",
+  "version": "1.0.0",
+  "description": "Blog for Dads in the MSP area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicbade/mspdads.git"
+  },
+  "author": "nicbade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicbade/mspdads/issues"
+  },
+  "homepage": "https://github.com/nicbade/mspdads#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "npm": "^6.14.2"
+  }
+}
