@@ -18,6 +18,6 @@
   "homepage": "https://github.com/nicbade/mspdads#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "npm": "^6.14.2"
+    "npm": "^6.14.6"
   }
 }
